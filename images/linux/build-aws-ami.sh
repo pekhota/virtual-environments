@@ -1,0 +1,1 @@
+AWS_MAX_ATTEMPTS=60 AWS_POLL_DELAY_SECONDS=60 packer build -var-file=variables.json -only amazon-ebs ubuntu1804.json
