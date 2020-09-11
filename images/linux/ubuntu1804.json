@@ -233,7 +233,6 @@
                 "{{template_dir}}/scripts/installers/swig.sh",
                 "{{template_dir}}/scripts/installers/netlify.sh",
                 "{{template_dir}}/scripts/installers/azpowershell.sh",
-                "{{template_dir}}/scripts/helpers/containercache.sh",
                 "{{template_dir}}/scripts/installers/hosted-tool-cache.sh",
                 "{{template_dir}}/scripts/installers/pypy.sh",
                 "{{template_dir}}/scripts/installers/python.sh",
